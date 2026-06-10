@@ -1,0 +1,6 @@
+ID,Type,Amount (INR),Description,Project,Category,Date
+1,Income,5000.00,Consulting Retainer,Syneur Technologies,Consulting,2026-06-01
+2,Expense,1200.00,Office Rent Payment,Syneur Technologies,Rent,2026-06-01
+3,Income,3200.00,Client Project Launch,Cocoa Stories,Consulting,2026-06-05
+4,Expense,150.00,Local Marketing Flyers,Cocoa Stories,Marketing,2026-06-07
+5,Expense,120.00,Weekly Groceries,Personal,Groceries,2026-06-08
